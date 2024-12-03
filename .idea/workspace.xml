@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ea037c6-c8e0-4798-a259-bffb0eed8fbe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/cuahang.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/dienthoai.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/hoadon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/test/test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1/BaiTap1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex01.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex02.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex03.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex04.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex05.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex06.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2/ex07.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/models/nhanvien.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/models/nhanvienbanhang.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/test/test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3/ql_sinhvien/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3/ql_sinhvien/test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ph6k1LiCD51oBSiNiazXA2E9HE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea037c6-c8e0-4798-a259-bffb0eed8fbe" name="Changes" comment="" />
+      <created>1733206100322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733206100322</updated>
+    </task>
+    <servers />
+  </component>
+</project>
