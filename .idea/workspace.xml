@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea037c6-c8e0-4798-a259-bffb0eed8fbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/cuahang.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/dienthoai.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/models/hoadon.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-BaiTapOOP/test/test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b1/BaiTap1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex01.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex02.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex03.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex04.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex05.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex06.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b2/ex07.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/models/nhanvien.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/models/nhanvienbanhang.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b3/ql_nhanvien/test/test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b3/ql_sinhvien/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b3/ql_sinhvien/test.dart" beforeDir="false" />
-    </list>
+    <list default="true" id="1ea037c6-c8e0-4798-a259-bffb0eed8fbe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +16,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ph6k1LiCD51oBSiNiazXA2E9HE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +35,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/LapTrinhMobile/flutter_01",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
